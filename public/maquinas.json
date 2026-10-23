@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Máquina CNC 01",
+        "empresa": "Empresa Alfa",
+        "status": "desligada",
+        "eficiencia": 87,
+        "temperatura": 25,
+        "operacao": false,
+        "alerta": false
+    },
+    {
+        "nome": "Máquina Laser 02",
+        "empresa": "Empresa Beta",
+        "status": "desligada",
+        "eficiencia": 20,
+        "temperatura": 25,
+        "operacao": false,
+        "alerta": false
+    },
+    {
+        "nome": "Prensa Industrial 03",
+        "empresa": "Empresa Alfa",
+        "status": "desligada",
+        "eficiencia": 65,
+        "temperatura": 25,
+        "operacao": false,
+        "alerta": false
+    },
+    {
+        "nome": "Torno Mecânico 04",
+        "empresa": "Empresa Beta",
+        "status": "ativa",
+        "eficiencia": 88,
+        "temperatura": 25,
+        "operacao": true,
+        "alerta": false
+    },
+    {
+        "nome": "Máquina Corte 05",
+        "empresa": "Empresa Alfa",
+        "status": "desligada",
+        "eficiencia": 55,
+        "temperatura": 25,
+        "operacao": false,
+        "alerta": false
+    }
+]
